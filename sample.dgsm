@@ -1,8 +1,6 @@
 [setting]
 =title(Progressbar Example)
 =header(false)
-=events(false)
-=webpage(false)
 [?setting]
 
 # Progressbar in Markdowwn
