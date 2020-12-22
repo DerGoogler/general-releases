@@ -1,7 +1,7 @@
-[setting]
-=title(Bootstrap Example)
-=header(false)
-[?setting]
+{#setting#}
+=title((Bootstrap Sample))
+=header((false))
+{#setting#}
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/checkout/">
     /// Bootstrap core CSS 
 <link href="/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
