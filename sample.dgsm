@@ -1,21 +1,21 @@
-[setting]
-=title(Progressbar Example)
-=header(false)
-[?setting]
+{#setting#}
+=title((Progressbar Example))
+=header((false))
+{#setting#}
 
 # Progressbar in Markdowwn
-[progressbar]
-=color(272727)
-=progress(89)
-[?progressbar]
+{#progressbar#}
+=color((dc3545))
+=progress((100))
+{#progressbar#}
 
 ## Its simple!
 just use this `code`
 ```
-[progressbar???]
-=color(272727)
-=progress(89)
-[?progressbar???]
+{#progressbar#}
+=color((dc3545))
+=progress((100))
+{#progressbar#???}
 ```
 
 See source code [here](https://github.com/DerGoogler/general-releases/blob/main/sample.dgsm)
