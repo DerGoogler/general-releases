@@ -1,0 +1,138 @@
+{#setting#}
+=title((Der_Googlers Music Mods))
+=header((true))
+{#setting#}
+/// DGSM Original Product by Der_Googler
+<div class="accordion" id="accordionExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        Spotify Red
+      </button>
+    </h2>
+    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <div class="btn-group" role="group" aria-label="Basic example">
+{#gitmd#}
+
+## Spotify Red
+<div class="btn-group" role="group" aria-label="Basic example">
+{#button#}
+=class((danger))
+=text((RED 1))
+=link((google.com))
+{#button#}
+{#button#}
+=class((danger))
+=text((RED 2))
+=link((google.com))
+{#button#}
+{#button#}
+=class((danger))
+=text((RED 3))
+=link((google.com))
+{#button#}
+</div>
+\b\b
+{#btn-collapse#}
+=id((dgsm_collapse3))
+=class((danger))
+=btn-text((Read More))
+=content-text((
+- No Working Downloads\b   
+- Unlmt. Plays\b
+- More\b
+- Outdated
+))
+{#btn-collapse#}
+{#gitmd#}
+
+</div>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        Spotify Purple
+      </button>
+    </h2>
+    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+       {#gitmd#}
+
+## Spotify Purple
+<div class="btn-group" role="group" aria-label="Basic example">
+{#button#}
+=class((dark))
+=text((PURPLE 1))
+=link((google.com))
+{#button#}
+{#button#}
+=class((dark))
+=text((PURPLE 2))
+=link((google.com))
+{#button#}
+</div>
+\b\b
+{#btn-collapse#}
+=id((dgsm_collapse2))
+=class((danger))
+=btn-text((Read More))
+=content-text((
+- No Working Downloads\b   
+- Unlmt. Plays\b
+- More\b
+- Outdated
+))
+{#btn-collapse#}
+{#gitmd#} 
+       </div> 
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingThree">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        Deezer + Orange Mod
+      </button>
+    </h2>
+    <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+              {#gitmd#}
+
+## Deezer Mods
+<div class="btn-group" role="group" aria-label="Basic example">
+{#button#}
+=class((dark))
+=text((Deezer Mod))
+=link((google.com))
+{#button#}
+{#button#}
+=class((dark))
+=text((Deezer orange Mod))
+=link((google.com))
+{#button#}
+</div>
+\b\b
+{#btn-collapse#}
+=id((dgsm_collapse1))
+=class((success))
+=btn-text((Read More))
+=content-text((
+- Working Downloads\b   
+- Unlmt. Plays\b
+- More\b
+- Outdated
+))
+{#btn-collapse#}
+{#gitmd#} 
+      </div>
+    </div>
+  </div>
+</div>
+
+{#gitmd#}
+[See Source Code](https://github.com/DerGoogler/general-releases/blob/main/spotify-mods.dgsm)
+{#gitmd#}
+/// DGSM Original Product by Der_Googler
