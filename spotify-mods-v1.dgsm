@@ -2,6 +2,10 @@
 =title((Der_Googlers Music Mods))
 =header((true))
 {#setting#}
+/// Includes the navbar
+{#navbar-body#}
+{#=include((embeds/navbar))#}
+{#navbar-body#}
 /// DGSM Original Product by Der_Googler
 <div class="accordion" id="accordionExample">
   <div class="accordion-item">
